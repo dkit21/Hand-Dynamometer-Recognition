@@ -1,0 +1,1 @@
+pyinstaller -F --icon=resources\\main_ico.ico EHDRecognition.py
